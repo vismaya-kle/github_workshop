@@ -1,1 +1,3 @@
-# Welcome to the git  & GitHub tutorial 
+# Welcome to the git  & GitHub tutorial
+# Day 1
+# Day 2
